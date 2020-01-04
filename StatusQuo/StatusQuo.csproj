@@ -6,7 +6,7 @@
     <Description>Status Quo is a status library for C#. It provides many constructs to display application status to the user, inluding: Trees, chains, and more. It is currently used in Sigma.</Description>
     <PackageLicenseFile>LICENSE</PackageLicenseFile>
     <Version>0.0.0</Version>
-    <Copyright>Copyright 2019 NightEule5</Copyright>
+    <Copyright>Copyright 2019-2020 NightEule5</Copyright>
     <PackageProjectUrl>https://github.com/NightEule5/StatusQuo</PackageProjectUrl>
     <RepositoryUrl>https://github.com/NightEule5/StatusQuo</RepositoryUrl>
   </PropertyGroup>
